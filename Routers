@@ -1,0 +1,39 @@
+  Routers
+       
+       Router is a device which is used to forward data from pc (or any connected input device) to another LAN or WAN 
+  
+  Router Ports
+        
+        Router ports used to make communication with other devices
+        
+   Types of Router Ports
+   
+                 Interface
+                 Line
+    
+    Interface
+         
+         Used for  connecting router with other device  
+         
+         1.Ethernet interfaces
+           used to connect router with other devices
+          
+         2.Serial Interfaces
+             used to connect router with other router
+             
+   
+   Line
+   
+       Used for configure router 
+       
+      1.Console port
+          used for direct configuration
+             (ex)
+               configure router with pc
+ 
+       2.Auxillary port
+           
+           used for configure router via internet
+      
+       
+             
